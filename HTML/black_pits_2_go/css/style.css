@@ -15422,7 +15422,7 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-origin {
 }
 
 .block-slideshow__slide-title {
-  font-size: calc(1.425rem + 2.1vw);
+  font-size: 3rem;
   line-height: 1.2;
   font-weight: 700;
   margin-top: 1rem !important;
