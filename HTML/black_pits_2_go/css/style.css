@@ -15428,6 +15428,7 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-origin {
   margin-top: 1rem !important;
   margin-bottom: 0.5rem;
   opacity: 1;
+  color: #ffffff;
   -webkit-transition: all 1s 0.2s;
   transition: all 1s 0.2s;
 }
@@ -15438,6 +15439,7 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-origin {
   margin-top: 0;
   margin-bottom: 1rem;
   opacity: 0;
+  color: #ffffff;
   -webkit-transform: translateY(15px);
           transform: translateY(15px);
   -webkit-transition: all 0.8s 0.5s;

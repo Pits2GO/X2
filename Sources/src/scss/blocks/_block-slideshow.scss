@@ -92,6 +92,7 @@ $local-dot-size: $local-dots-height - $local-dots-padding * 2;
     margin-bottom: 12px;
     opacity: 0;
     transition: all 1s .2s;
+    color: #fff;
 }
 .block-slideshow__slide-text {
     line-height: 1.625;
